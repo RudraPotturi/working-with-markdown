@@ -80,7 +80,17 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 ## Learn More
 
-Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. Modified 
+Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources.
+
+##Modified
+
+#Done
+1.changes
+1.changed
+
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+
+
 
 ##  About
 
