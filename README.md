@@ -89,7 +89,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 1. changes
 1. changed
 
-![Hosted image](C:\Users\S534804\Pictures\Camera Roll\pic.jpg "Pic")
+![Hosted image](https://tinyjpg.com/images/social/website.jpg "Panda")
 
 
 
