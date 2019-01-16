@@ -85,8 +85,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 ##Modified
 
 #Done
-1.changes
-1.changed
+
+1. changes
+1. changed
 
 ![Hosted image](C:\Users\S534804\Pictures\Camera Roll\pic.jpg "Pic")
 
